@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Gordita.ttf",
+      "sha1": "3236d52f2f1f55c9275cdb340239bb9acf023050"
+    },
+    {
+      "path": "src/assets/fonts/bold.ttf",
+      "sha1": "b524325340c6fa900fea9e5dcaa4a2aa9f3d5fa6"
+    },
+    {
+      "path": "src/assets/fonts/medium.ttf",
+      "sha1": "41fd3f65b0dc1d63b2fad3b2a40e7f57bbc92b5e"
+    }
+  ]
+}
